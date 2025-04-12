@@ -1,14 +1,13 @@
 ---
-title: "Muaaz Naeem - Front-End Developer Resume"
+title: Muaaz Naeem - Front-End Developer
 layout: default
-theme: jekyll-theme-cayman
 ---
 
 # 👨‍💻 Muaaz Naeem  
-**Location:** Lahore, Pakistan  
-**Phone:** +92 326 7740709  
-**Email:** muaaznaeemoff@gmail.com  
-**GitHub:** [github.com/mkgdevelopers](https://github.com/mkgdevelopers)
+📍 Lahore, Pakistan  
+📞 +92 326 7740709  
+📧 [muaaznaeemoff@gmail.com](mailto:muaaznaeemoff@gmail.com)  
+🌐 [github.com/mkgdevelopers](https://github.com/mkgdevelopers)
 
 ---
 
@@ -17,56 +16,53 @@ Enthusiastic and logic-driven front-end developer with hands-on experience in bu
 
 ---
 
-## 🧠 Skills
-
+## 🛠️ Skills  
 - **Languages & Tools:** HTML5, CSS3, JavaScript (ES6+), React.js, Git, GitHub  
-- **React Skills:** Routing, Component Structure, API Integration, Form Handling  
-- **Programming:** Strong in C and C++ (especially logic building & CLI games)  
-- **Soft Skills:** Creativity, Problem-solving, Communication, Adaptability
+- **React Expertise:** Routing, Component Structure, API Integration, Form Handling  
+- **Programming Languages:** C, C++ (Strong in logic building and CLI game dev)  
+- **Other Tools:** VS Code, Chrome DevTools, Figma (basic)  
+- **Soft Skills:** Problem-solving, Creativity, Communication, Adaptability  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
-### 🎮 [Zombie Shooter (Mobile Web Game)](https://github.com/mkgdevelopers/zombie-shooter)  
-**HTML, CSS, JS** — Tap-to-kill mobile game where players defend a castle from zombies.
+### 🔫 [Zombie Shooter](https://github.com/mkgdevelopers/zombie-shooter)  
+**HTML, CSS, JavaScript**  
+A fast-paced tap-to-kill mobile web game. Kill zombies before they reach your castle.
 
-### 🎲 [Match the Tile (Mini Game)](https://github.com/mkgdevelopers/match-the-tile)  
-**HTML, CSS, JS** — Memory game to find matching emoji tiles with smooth UI.
+### 🎯 [Match the Tile](https://github.com/mkgdevelopers/match-the-tile)  
+**HTML, CSS, JavaScript**  
+Memory game with hidden emojis. Flip tiles to find matching pairs.
 
-### 🧾 [Form Validation App](https://github.com/mkgdevelopers/form-validation)  
-**React.js** — Real-time form validation with clean UI and custom error handling.  
-🔗 [Live Demo](https://form-validation-mu-eight.vercel.app/)
+### ✅ [Form Validation App](https://github.com/mkgdevelopers/form-validation)  
+**React.js**  
+A responsive form with real-time validation using controlled components and custom error handling.
 
-### 📺 [Netflix Frontend Clone](https://github.com/mkgdevelopers/netflix-clone)  
-**React.js** — Clean UI Netflix homepage clone showing skills in components & props.  
-🔗 [Live Demo](https://netflix-clone-git-main-muaaz-naeems-projects.vercel.app/)
+### 🎬 [Netflix Frontend Clone](https://github.com/mkgdevelopers/netflix-clone)  
+**React.js**  
+Clean replica of Netflix’s homepage with dynamic UI and modular components.
 
-### ⛏️ Gold Hunter (CLI Game)  
-**C++** — Terminal-based treasure hunt game to sharpen logic & gameplay mechanics.
+### 💰 Gold Hunter (CLI Game)  
+**C++**  
+Terminal-based treasure hunt game featuring a grid layout and scoring system.
 
 ---
 
 ## 🎓 Education  
-**Bachelor's Degree** – Govt Shalimar Graduate College  
-*Relevant Subjects:* Web Technologies, C/C++ Programming, Software Engineering
+**Bachelor's Degree – Govt Shalimar Graduate College**  
+*Expected Graduation Year: [Insert Year]*  
+Relevant Subjects: Web Technologies, C/C++ Programming, Software Engineering
 
 ---
 
-## 📜 Certifications
-
-- HTML, CSS, and JavaScript – *Coursera*  
-- Microsoft 365 Certification – *Microsoft*
-
----
-
-## 🌟 Highlights
-
-- Developed and deployed static websites for real estate clients  
-- Comfortable with Git, GitHub, and basic deployment  
-- Brief hands-on with Django (exploring backend)  
-- Loves building games, tools, and interactive web experiences
+## 📜 Certifications  
+- HTML, CSS, and JavaScript – Coursera  
+- Microsoft 365 Certification – Microsoft
 
 ---
 
-> 🔗 View this resume on [GitHub Pages](#) *(replace this with your link when live)*  
+## 🔍 Extras  
+- Built and deployed static sites for real estate clients  
+- Exploring Django for future backend projects  
+- Passionate about creative web experiences, especially games  
