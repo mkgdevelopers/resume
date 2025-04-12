@@ -50,8 +50,8 @@ Terminal-based treasure hunt game featuring a grid layout and scoring system.
 ---
 
 ## 🎓 Education  
-**Bachelor's Degree – Govt Shalimar Graduate College**  
-*Expected Graduation Year: [Insert Year]*  
+**Intermediate (In Progress) – Govt Shalimar Graduate College**  
+Expected Completion: 2025  
 Relevant Subjects: Web Technologies, C/C++ Programming, Software Engineering
 
 ---
